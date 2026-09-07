@@ -1,0 +1,288 @@
+{
+  "coins": 233249.96559158165,
+  "gems": 139,
+  "total_earned": 771340.9655913864,
+  "clicks": 224,
+  "click_level": 18,
+  "click_cost": 146385,
+  "lang": "EN",
+  "lang_chosen": true,
+  "audio_settings": {
+    "master": 1.0,
+    "music": 0.12,
+    "sfx": 1.0
+  },
+  "graphics_settings": {
+    "particles": true,
+    "animations": true,
+    "background": true,
+    "fps_saver": false
+  },
+  "auto_lab": {
+    "level": 4
+  },
+  "airdrop": {
+    "claimed": 0
+  },
+  "potion_shop": {
+    "offers": [
+      "click_7_10",
+      "click_3_3",
+      "cps_7_10"
+    ],
+    "next_refresh": 1783525460.8831882,
+    "bought": {}
+  },
+  "rebirths": 0,
+  "boss_level": 4,
+  "bosses_defeated": 3,
+  "boss_modifiers": {
+    "4": {
+      "mutation": null,
+      "rarity": "common"
+    }
+  },
+  "boss_mutation_stats": {
+    "mutated_kills": 0,
+    "elite_kills": 0,
+    "highest_mutated_level": 0,
+    "mutations": {
+      "berserk": {
+        "seen": 0,
+        "killed": 0,
+        "highest_level": 0
+      },
+      "frenzy": {
+        "seen": 0,
+        "killed": 0,
+        "highest_level": 0
+      },
+      "frozen": {
+        "seen": 0,
+        "killed": 0,
+        "highest_level": 0
+      },
+      "toxic": {
+        "seen": 0,
+        "killed": 0,
+        "highest_level": 0
+      },
+      "crystal": {
+        "seen": 1,
+        "killed": 0,
+        "highest_level": 0
+      },
+      "elite": {
+        "seen": 0,
+        "killed": 0,
+        "highest_level": 0
+      }
+    },
+    "rarities": {
+      "common": {
+        "killed": 0,
+        "highest_level": 0
+      },
+      "rare": {
+        "killed": 0,
+        "highest_level": 0
+      },
+      "epic": {
+        "killed": 0,
+        "highest_level": 0
+      },
+      "legendary": {
+        "killed": 0,
+        "highest_level": 0
+      },
+      "mythic": {
+        "killed": 0,
+        "highest_level": 0
+      }
+    }
+  },
+  "prestige_points": 0,
+  "prestige_upgrades": {},
+  "inventory": [
+    {
+      "item_id": "straw_hat",
+      "name": "Strawberry Cap",
+      "emoji": "\ud83c\udf53",
+      "slot": "Czapka",
+      "power": 1.32,
+      "rarity": "common",
+      "boss_level": 1,
+      "item_uid": "straw_hat-1781866764889-3639",
+      "item_level": 1,
+      "item_xp": 0.0,
+      "base_power": 1.32
+    }
+  ],
+  "consumables": [
+    {
+      "name": "Mega Klik x10",
+      "emoji": "\ud83d\uddb1\ufe0f",
+      "duration": 30,
+      "effect": "click_x10",
+      "color": "#ef4444",
+      "key": "mega_click"
+    },
+    {
+      "name": "Mega Klik x10",
+      "emoji": "\ud83d\uddb1\ufe0f",
+      "duration": 30,
+      "effect": "click_x10",
+      "color": "#ef4444",
+      "key": "mega_click"
+    },
+    {
+      "name": "+50 Gems",
+      "emoji": "\ud83d\udc8e",
+      "duration": 0,
+      "effect": "gems_50",
+      "color": "#8b5cf6",
+      "key": "gem_boost"
+    }
+  ],
+  "equipped": {
+    "Czapka": {
+      "item_id": "straw_hat",
+      "name": "Strawberry Cap",
+      "emoji": "\ud83c\udf53",
+      "slot": "Czapka",
+      "power": 1.48,
+      "rarity": "common",
+      "boss_level": 3,
+      "item_uid": "straw_hat-1781866764889-1129",
+      "item_level": 4,
+      "item_xp": 96.0,
+      "base_power": 1.36
+    },
+    "Narz\u0119dzie": null,
+    "Buty": null,
+    "R\u0119kawice": null,
+    "Pier\u015bcie\u0144": null
+  },
+  "queue_kids": 42.0,
+  "satisfaction": 90.0,
+  "acquisition": {
+    "ice_van": {
+      "level": 0,
+      "base_cost": 200,
+      "cost": 200
+    },
+    "playground": {
+      "level": 0,
+      "base_cost": 950,
+      "cost": 950
+    },
+    "cartoon_slot": {
+      "level": 0,
+      "base_cost": 4800,
+      "cost": 4800
+    }
+  },
+  "buildings": {
+    "b1": {
+      "name": "Chill Drill",
+      "emoji": "\ud83e\uddca",
+      "blurb": "The heart of the line \u2014 cream goes in, cold profit comes out.",
+      "level": 13,
+      "base_cost": 15,
+      "cost": 165,
+      "cps": 1.5
+    },
+    "b2": {
+      "name": "Whip Wizard",
+      "emoji": "\ud83c\udf00",
+      "blurb": "Whips air into cream \u2014 silky texture, fatter margins.",
+      "level": 9,
+      "base_cost": 120,
+      "cost": 711,
+      "cps": 8
+    },
+    "b3": {
+      "name": "Sprinkle Storm",
+      "emoji": "\u2728",
+      "blurb": "Sprinkles, drizzle, glitter \u2014 same cost, bigger hype.",
+      "level": 5,
+      "base_cost": 1500,
+      "cost": 4052,
+      "cps": 60
+    },
+    "b4": {
+      "name": "Flavor Bomb",
+      "emoji": "\ud83e\uddea",
+      "blurb": "Wild syrups \u2014 pulls in the pickiest customers.",
+      "level": 1,
+      "base_cost": 25000,
+      "cost": 30500,
+      "cps": 400
+    },
+    "b5": {
+      "name": "Scoop Sealer",
+      "emoji": "\ud83d\udce6",
+      "blurb": "Cups and cones to the counter in a flash.",
+      "level": 0,
+      "base_cost": 500000,
+      "cost": 500000,
+      "cps": 3000
+    },
+    "b6": {
+      "name": "Hype Horn",
+      "emoji": "\ud83d\udce2",
+      "blurb": "Yells across the block \u2014 pairs great with the ice-cream van.",
+      "level": 0,
+      "base_cost": 25000000,
+      "cost": 25000000,
+      "cps": 25000
+    }
+  },
+  "active_effects": {},
+  "achievements_completed": [
+    "combo_25",
+    "first_click",
+    "rich_100k",
+    "first_boss"
+  ],
+  "last_daily_claim": 1783524255.2975988,
+  "gem_perks": {
+    "crit_x3": 2,
+    "crit_x5": 1
+  },
+  "crates": {
+    "common": 0,
+    "rare": 0,
+    "epic": 0,
+    "legendary": 0
+  },
+  "codex": {
+    "0": {
+      "unlocked": true,
+      "best_level": 1,
+      "emoji": "\ud83e\uddd9\u200d\u2640\ufe0f",
+      "name_pl": "Czarodziejka Zamieci",
+      "name_en": "Blizzard Witch"
+    },
+    "1": {
+      "unlocked": true,
+      "best_level": 2,
+      "emoji": "\ud83d\udc09",
+      "name_pl": "Smok Mr\u00f3zki",
+      "name_en": "Frostbite Drake"
+    },
+    "2": {
+      "unlocked": true,
+      "best_level": 3,
+      "emoji": "\u26c4",
+      "name_pl": "Ba\u0142wan z Piek\u0142a",
+      "name_en": "Snow Golem Supreme"
+    }
+  },
+  "stats": {
+    "total_clicks": 0,
+    "total_bosses": 0,
+    "highest_combo": 59,
+    "play_time": 0
+  }
+}
